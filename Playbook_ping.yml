@@ -1,0 +1,7 @@
+-
+  name: Test server connectivity
+  host: all
+  tasks:
+    - name: ping test
+      ping: 
+#play the ansible using ansibe-playbook <name of yaml file>

@@ -15,3 +15,9 @@
             lineinfile: 
                 path: /etc/resolv.conf
                 line: 'nameserver:10.1.250.10'
+        -
+            name: 'to create a new web user'
+            user:
+                name: web_user
+                uid: 1040
+                group: developers

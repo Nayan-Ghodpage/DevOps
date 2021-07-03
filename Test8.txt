@@ -1,2 +1,2 @@
-thus is the 8th edition of the Devops`:wq!
+this is the 8th edition of the Devops
 
